@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "Antenna")(type "KiCad")(uri "${KIPRJMOD}/libraries/Antenna.kicad_sym")(options "")(descr ""))
+  (lib (name "airboy")(type "KiCad")(uri "${KIPRJMOD}/libraries/airboy.kicad_sym")(options "")(descr ""))
+  (lib (name "test")(type "KiCad")(uri "C:/Users/piotr/Desktop/test.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,279 @@
+{
+    "classes": [
+        {
+            "name": "spi",
+            "nets": [
+                {
+                    "name": "/Microcontroller/SPI4",
+                    "code": 45,
+                    "reference1": "J1",
+                    "pad1": "11",
+                    "pin1": "J1.11",
+                    "reference2": "RN2",
+                    "pad2": "4",
+                    "pin2": "RN2.4",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "11",
+                            "pin": "J1.11"
+                        },
+                        {
+                            "reference": "RN2",
+                            "pad": "4",
+                            "pin": "RN2.4"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 34.324999405292886,
+                    "totallength": 34.324999405292886
+                },
+                {
+                    "name": "/Microcontroller/SPI5",
+                    "code": 46,
+                    "reference1": "J1",
+                    "pad1": "9",
+                    "pin1": "J1.9",
+                    "reference2": "RN3",
+                    "pad2": "1",
+                    "pin2": "RN3.1",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "9",
+                            "pin": "J1.9"
+                        },
+                        {
+                            "reference": "RN3",
+                            "pad": "1",
+                            "pin": "RN3.1"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 33.644365183531406,
+                    "totallength": 33.644365183531406
+                },
+                {
+                    "name": "/Microcontroller/SPI6",
+                    "code": 47,
+                    "reference1": "J1",
+                    "pad1": "8",
+                    "pin1": "J1.8",
+                    "reference2": "RN3",
+                    "pad2": "2",
+                    "pin2": "RN3.2",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "8",
+                            "pin": "J1.8"
+                        },
+                        {
+                            "reference": "RN3",
+                            "pad": "2",
+                            "pin": "RN3.2"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 33.35297146836385,
+                    "totallength": 33.35297146836385
+                },
+                {
+                    "name": "/Microcontroller/SPI7",
+                    "code": 48,
+                    "reference1": "J1",
+                    "pad1": "6",
+                    "pin1": "J1.6",
+                    "reference2": "RN3",
+                    "pad2": "3",
+                    "pin2": "RN3.3",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "6",
+                            "pin": "J1.6"
+                        },
+                        {
+                            "reference": "RN3",
+                            "pad": "3",
+                            "pin": "RN3.3"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 32.00732289817428,
+                    "totallength": 32.00732289817428
+                },
+                {
+                    "name": "/Microcontroller/SPICLK",
+                    "code": 42,
+                    "reference1": "J1",
+                    "pad1": "16",
+                    "pin1": "J1.16",
+                    "reference2": "RN2",
+                    "pad2": "1",
+                    "pin2": "RN2.1",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "16",
+                            "pin": "J1.16"
+                        },
+                        {
+                            "reference": "RN2",
+                            "pad": "1",
+                            "pin": "RN2.1"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 37.18865845671378,
+                    "totallength": 37.18865845671378
+                },
+                {
+                    "name": "/Microcontroller/SPID",
+                    "code": 44,
+                    "reference1": "J1",
+                    "pad1": "12",
+                    "pin1": "J1.12",
+                    "reference2": "RN2",
+                    "pad2": "3",
+                    "pin2": "RN2.3",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "12",
+                            "pin": "J1.12"
+                        },
+                        {
+                            "reference": "RN2",
+                            "pad": "3",
+                            "pin": "RN2.3"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 34.6238326082183,
+                    "totallength": 34.6238326082183
+                },
+                {
+                    "name": "/Microcontroller/SPIDQS",
+                    "code": 49,
+                    "reference1": "J1",
+                    "pad1": "5",
+                    "pin1": "J1.5",
+                    "reference2": "RN3",
+                    "pad2": "4",
+                    "pin2": "RN3.4",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "5",
+                            "pin": "J1.5"
+                        },
+                        {
+                            "reference": "RN3",
+                            "pad": "4",
+                            "pin": "RN3.4"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 31.708489695248858,
+                    "totallength": 31.708489695248858
+                },
+                {
+                    "name": "/Microcontroller/SPIHD",
+                    "code": 40,
+                    "reference1": "J1",
+                    "pad1": "21",
+                    "pin1": "J1.21",
+                    "reference2": "RN1",
+                    "pad2": "3",
+                    "pin2": "RN1.3",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "21",
+                            "pin": "J1.21"
+                        },
+                        {
+                            "reference": "RN1",
+                            "pad": "3",
+                            "pin": "RN1.3"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 39.86002427700445,
+                    "totallength": 39.86002427700445
+                },
+                {
+                    "name": "/Microcontroller/SPIQ",
+                    "code": 43,
+                    "reference1": "J1",
+                    "pad1": "14",
+                    "pin1": "J1.14",
+                    "reference2": "RN2",
+                    "pad2": "2",
+                    "pin2": "RN2.2",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "14",
+                            "pin": "J1.14"
+                        },
+                        {
+                            "reference": "RN2",
+                            "pad": "2",
+                            "pin": "RN2.2"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 35.8653283497978,
+                    "totallength": 35.8653283497978
+                },
+                {
+                    "name": "/Microcontroller/SPIWP",
+                    "code": 41,
+                    "reference1": "J1",
+                    "pad1": "19",
+                    "pin1": "J1.19",
+                    "reference2": "RN1",
+                    "pad2": "4",
+                    "pin2": "RN1.4",
+                    "pads": [
+                        {
+                            "reference": "J1",
+                            "pad": "19",
+                            "pin": "J1.19"
+                        },
+                        {
+                            "reference": "RN1",
+                            "pad": "4",
+                            "pin": "RN1.4"
+                        }
+                    ],
+                    "status": "done",
+                    "viacount": 0,
+                    "vialength": 0.0,
+                    "tracklength": 38.30607004959475,
+                    "totallength": 38.30607004959475
+                }
+            ]
+        }
+    ]
+}
