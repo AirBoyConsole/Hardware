@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "AirBoy - Controler")
+    (date "2023-03-31")
+    (rev "2.1A")
+    (company "AirBoy Company (Piotr Mijakowski)")
+  )
+
   (lib_symbols
     (symbol "74xGxx:74AUP1G08" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -2.54 3.81 0)

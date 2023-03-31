@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "AirBoy - Microcontroler")
+    (date "2023-03-31")
+    (rev "2.1A")
+    (company "AirBoy Company (Piotr Mijakowski)")
+  )
+
   (lib_symbols
     (symbol "Device:Antenna_Shield" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "AE" (id 0) (at -1.905 4.445 0)

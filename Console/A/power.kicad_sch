@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "AirBoy - Power")
+    (date "2023-03-31")
+    (rev "2.1A")
+    (company "AirBoy Company (Piotr Mijakowski)")
+  )
+
   (lib_symbols
     (symbol "Battery_Management:BQ24075RGT" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -8.89 13.97 0)
@@ -2100,6 +2107,10 @@
     (at 143.51 146.05 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3ab674c4-4ff7-4a11-870c-5e7df98e51cd)
+  )
+  (text "Do not buy BQ24075T version" (at 85.09 149.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cbb623fb-aba1-4e11-bc4e-8c78adba2a86)
   )
 
   (label "CHARGER_OUT" (at 33.02 165.1 0)
